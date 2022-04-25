@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'b17a69f5aa6649e3bec49b89f1d9d83f',
+  rootNotionPageId: 'Video-Game-Organization-List-f554648ccc1341f3bfeef57f70aaedcc',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '斯奈和薯条和砂糖橘',
-  domain: 'https://six-freighter-8b0.notion.site/b17a69f5aa6649e3bec49b89f1d9d83f',
+  domain: 'https://six-freighter-8b0.notion.site/Video-Game-Organization-List-f554648ccc1341f3bfeef57f70aaedcc',
   author: 'dzcsings',
 
   // open graph metadata (optional)
