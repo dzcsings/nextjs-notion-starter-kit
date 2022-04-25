@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'dzcsings',
   github: 'dzcsings',
-  linkedin: 'https://monado.ren/web/@dzcsings',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
